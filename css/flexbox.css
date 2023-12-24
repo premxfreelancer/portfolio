@@ -1,3 +1,21 @@
-.header {
-    
+.fullflex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.onlyjustify {
+    display: flex;
+    justify-content: center;
+}
+
+.onlyalign {
+    display: flex;
+    align-items: center;
+}
+
+.spacebet {
+    display: flex;
+justify-content: space-around;
+    align-items: center;
 }

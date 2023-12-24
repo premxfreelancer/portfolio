@@ -1,3 +1,13 @@
 .logo {
     height: 10vw;
 }
+
+.header1 {
+     background-color: aqua;
+     height: 12vh;
+}
+
+.contact {
+    color: white;
+    background-color: #1aee41;
+}
