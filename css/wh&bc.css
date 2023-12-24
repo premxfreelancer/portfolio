@@ -23,3 +23,28 @@
 .ad {
     width: 100%;
 }
+
+.aboutmebody {
+    background-color: rgb(164, 208, 208);
+    color: rgb(55, 52, 52);
+}
+
+.aboutme {
+    background-color: rgb(55, 52, 52);
+    color: rgb(164, 208, 208);
+}
+.socialhandleshead {
+    background-color: rgb(55, 52, 52);
+    color: rgb(164, 208, 208);
+}
+.socialhandlesbody {
+    background-color: rgb(164, 208, 208);
+    color: rgb(55, 52, 52);
+}
+.Youtube_logo {
+    width: 10vw;
+}
+
+.links {
+    color: blue;
+}
