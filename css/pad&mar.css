@@ -27,6 +27,8 @@
 }
 
 .pickshead {
-    padding: 1%;
+    padding: 2%;
 }
-
+.stylebody1 , .stylehead1 {
+    padding: 2%;
+}
