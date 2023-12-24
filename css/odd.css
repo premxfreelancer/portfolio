@@ -12,3 +12,7 @@
     text-decoration: underline;
     color: rgb(44, 8, 87);
 }
+
+.hoverglow:hover {
+    text-shadow: 0 0 10px #3498db;
+}

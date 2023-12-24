@@ -48,3 +48,13 @@
 .links {
     color: blue;
 }
+
+.pickshead {
+    background-color: rgb(55, 52, 52);
+    color: rgb(164, 208, 208);
+}
+
+.picksbody {
+    background-color: rgb(164, 208, 208);
+    color: rgb(55, 52, 52);
+}
