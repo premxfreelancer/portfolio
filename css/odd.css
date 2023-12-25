@@ -16,3 +16,17 @@
 .hoverglow:hover {
     text-shadow: 0 0 10px #3498db;
 }
+
+.status:hover {
+    color: rgb(189, 43, 43);
+}
+
+.statusview {
+   position: fixed;
+   background-color: whitesmoke;
+   padding: 1vh;
+   bottom: 10vh;
+   right: 1vh;
+   border: 1px solid black;
+   display: none;
+}
