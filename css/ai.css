@@ -10,4 +10,24 @@ position: fixed;
 bottom: 1vh;
 right: 1vh;
   }
-  
+  /* Styles for the button with class "butofcomment" */
+.butofcomment {
+   display: inline-block;
+padding: 1vw;
+   font-size: 3vw;
+   text-align: center;
+   text-decoration: none;
+   cursor: pointer;
+   border: 2px solid #3498db;
+   border-radius: 5px;
+   color: #3498db;
+   background-color: #fff;
+   transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+ }
+ 
+ .butofcomment:hover {
+   background-color: #3498db;
+   color: #fff;
+   border-color: #fff;
+ }
+ 
