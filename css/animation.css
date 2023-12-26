@@ -1,0 +1,45 @@
+@keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  .fade-element {
+    animation-name: fadeIn;
+    animation-duration: 1.5s;
+  }
+  
+  @keyframes slideRight {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+  .slide-right {
+    animation-name: slideRight;
+    animation-duration: 1.5s;
+    
+  }
+  
+
+  @keyframes slideLeft {
+    0% {
+      transform: translateX(+100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+  .slide-left {
+    animation-name: slideLeft;
+    animation-duration: 1.5s;
+    
+  }
+  
